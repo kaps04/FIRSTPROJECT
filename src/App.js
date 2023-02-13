@@ -6,10 +6,6 @@ import { createContext } from 'react';
 import ReactSwitch from "react-switch";
 export const ThemeContext= createContext("light");
 
-//import reducer from './reducer';
-
-//import { AppProvider, initialState, useAppContext } from './Theme'
-
 
 
 function App() {
